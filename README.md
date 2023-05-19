@@ -2,4 +2,4 @@
 Computer Vision based Extended Reality
 
 
-VR using cameras. thats it.
+This is a project to demonstrate what i want to do
